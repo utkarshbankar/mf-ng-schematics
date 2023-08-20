@@ -26,3 +26,9 @@ npm publish
 ```
 
 That's it!
+
+The Result.
+<img width="584" alt="sucessful schematic first" src="https://github.com/utkarshbankar/mf-ng-schematics/assets/26164773/5d54759a-ae3c-4bf6-8510-cf28bfeb1289">
+
+
+
