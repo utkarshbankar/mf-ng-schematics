@@ -4,6 +4,11 @@
     "mf-ng-schematics": {
       "description": "A blank schematic.",
       "factory": "./mf-ng-schematics/index#mfNgSchematics"
+    },
+    "base": {
+      "description": "A Entry/base schematic.",
+      "factory": "./base/index#base",
+      "schema": "./base/schema.json"
     }
   }
 }
