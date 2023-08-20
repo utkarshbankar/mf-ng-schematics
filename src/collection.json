@@ -9,6 +9,10 @@
       "description": "A Entry/base schematic.",
       "factory": "./base/index#base",
       "schema": "./base/schema.json"
+    },
+    "add-mf": {
+      "description": "A blank schematic.",
+      "factory": "./add-mf/index#addMf"
     }
   }
 }
