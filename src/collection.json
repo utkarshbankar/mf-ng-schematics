@@ -13,6 +13,14 @@
     "add-mf": {
       "description": "A blank schematic.",
       "factory": "./add-mf/index#addMf"
+    },
+    "refactor-app": {
+      "description": "A blank schematic.",
+      "factory": "./refactor-app/index#refactorApp"
+    },
+    "refactor-files": {
+      "description": "A blank schematic.",
+      "factory": "./refactor-files/index#refactorFiles"
     }
   }
 }
