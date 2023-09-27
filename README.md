@@ -35,16 +35,17 @@ That's it!
 
 3. now link the copyed code to this work space like,
      
-     > <App_Name>npm link <path_to_copyed_code>/mf-ng-schematics
-     > after successful installation. 
+     - <App_Name>npm link <path_to_copyed_code>/mf-ng-schematics
+
+     - after successful installation. 
 
 4. Run the schematics like,
 
-    > ng g mf-ng-schematics:base
+    - ng g mf-ng-schematics:base
 
-    > ng g mf-ng-schematics:lazymod
+    - ng g mf-ng-schematics:lazymod
 
-    > ng g mf-ng-schematics:standalone
+    - ng g mf-ng-schematics:standalone
 
 and finally 
 5. The Result.
