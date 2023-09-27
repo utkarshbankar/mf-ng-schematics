@@ -21,6 +21,24 @@
     "refactor-files": {
       "description": "A blank schematic.",
       "factory": "./refactor-files/index#refactorFiles"
+    },
+    "standalone": {
+      "description": "A blank schematic.",
+      "factory": "./standalone/index#standalone",
+      "schema": "./standalone/schema.json"
+    },
+    "lazymod": {
+      "description": "A blank schematic.",
+      "factory": "./lazymod/index#lazymod",
+      "schema": "./lazymod/schema.json"
+    },
+    "smart": {
+      "description": "A blank schematic.",
+      "factory": "./smart/index#smart"
+    },
+    "frame": {
+      "description": "A blank schematic.",
+      "factory": "./frame/index#frame"
     }
   }
 }
