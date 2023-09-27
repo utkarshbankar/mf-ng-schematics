@@ -44,11 +44,11 @@ That's it!
     - ng g mf-ng-schematics:base
 
     - ng g mf-ng-schematics:lazymod
-           Here, we need to update the index.html file with root selector and update the main/bootstrap file with container component.
+    -      Here, we need to update the index.html file with root selector and update the main/bootstrap file with container component.
 
     - ng g mf-ng-schematics:standalone
-          update the import of container module with standalone component name.
-           then update the main.ts import manual for now.
+    -      update the import of container module with standalone component name.
+    -      then update the main.ts import manual for now.
 
 and finally.
 
