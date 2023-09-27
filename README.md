@@ -47,8 +47,14 @@ That's it!
 
     - ng g mf-ng-schematics:standalone
 
-and finally 
+and finally.
+
+Note : Always use the rootmodule name as container.
+       to run the different schematic create new workspace.
+       always link the schematic to worspace when before executing it.
+
 5. The Result.
+
 <img width="584" alt="sucessful schematic first" src="https://github.com/utkarshbankar/mf-ng-schematics/assets/26164773/5d54759a-ae3c-4bf6-8510-cf28bfeb1289">
 
 
