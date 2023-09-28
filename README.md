@@ -35,16 +35,16 @@ That's it!
 
 3. now link the copyed code to this work space like,
      
-     - <App_Name>npm link <path_to_copyed_code>/mf-ng-schematics
+   -     <App_Name>npm link <path_to_copyed_code>/mf-ng-schematics
 
-     - after successful installation. 
+   -     after successful installation. 
 
 4. Run the schematics like,
 
     -      ng g mf-ng-schematics:base
 
     -      ng g mf-ng-schematics:lazymod
-    - Here, we need to update the index.html file with root selector and update the main/bootstrap file with container component.
+     Here, we need to update the index.html file with root selector and update the main/bootstrap file with container component.
 
     -      ng g mf-ng-schematics:standalone
     - update the import of container module with standalone component name.
