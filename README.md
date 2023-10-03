@@ -24,6 +24,7 @@ To publish, simply do:
 npm run build
 npm publish
 ```
+- https://blog.devgenius.io/custom-schematics-for-your-application-in-angular-f691f6fd4dc
 
 That's it!
 
