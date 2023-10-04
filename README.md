@@ -26,6 +26,7 @@ npm publish
 ```
 - https://blog.devgenius.io/custom-schematics-for-your-application-in-angular-f691f6fd4dc
 - ref - https://pusher.com/tutorials/webpack-part-10/
+- webpack plugins -https://github.com/jantimon/html-webpack-plugin
 That's it!
 
 ### Using it localy
