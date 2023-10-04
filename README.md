@@ -25,7 +25,7 @@ npm run build
 npm publish
 ```
 - https://blog.devgenius.io/custom-schematics-for-your-application-in-angular-f691f6fd4dc
-
+- ref - https://pusher.com/tutorials/webpack-part-10/
 That's it!
 
 ### Using it localy
