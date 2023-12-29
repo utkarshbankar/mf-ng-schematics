@@ -34,15 +34,17 @@ That's it!
 
 1. Download the code on your system.
 
-2. Create angular workspace using. - ng new app_Name --create-application=false
+2. Create angular workspace using. 
 
-3. now link the copyed code to this work space like,
+  -      ng new app_Name --create-application=false
+
+4. now link the copyed code to this work space like,
      
    -     <App_Name>npm link <path_to_copyed_code>/mf-ng-schematics
 
    -     after successful installation. 
 
-4. Run the schematics like,
+5. Run the schematics like,
 
     -      ng g mf-ng-schematics:base
 
