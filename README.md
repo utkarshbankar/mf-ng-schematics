@@ -42,8 +42,7 @@ That's it!
      
    -     <App_Name>npm link <path_to_copyed_code>/mf-ng-schematics
 
-   -     after successful installation. 
-
+after successful installation. 
 5. Run the schematics like,
 
     -      ng g mf-ng-schematics:base
