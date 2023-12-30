@@ -36,7 +36,7 @@ That's it!
 
 2. Create angular workspace using. 
 
-  -      ng new app_Name --create-application=false
+   -      ng new app_Name --create-application=false
 
 4. now link the copyed code to this work space like,
      
